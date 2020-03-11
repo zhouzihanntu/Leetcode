@@ -6,5 +6,6 @@
  2 | Add Two Numbers | √ | √ |
  206 | Reverse Linked List | √ | √ |
  225 | Implement Stack using Queues | √ | √ |
- 1313 | Decompress Run-Length Encoded List | √ | √ | 
+ 1013 | Partition Array Into Three Parts With Equal Sum | √ | √ |
+ 1313 | Decompress Run-Length Encoded List | √ | √ |
  1342 | Number of Steps to Reduce a Number to Zero  | √ | √ | Bit Operation
