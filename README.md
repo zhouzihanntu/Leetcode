@@ -12,3 +12,10 @@
  1071 | Greatest Common Divisor of Strings | √ | √ | Euclidean algorithm
  1313 | Decompress Run-Length Encoded List | √ | √ |
  1342 | Number of Steps to Reduce a Number to Zero  | √ | √ | Bit Operation
+
+
+ ## Interview
+
+id | Problem   | Java  | Python | Hint
+:----:  |:----:  | :----:  | :----:  | :----:  
+17 | printNumbers | √ | √ | 
