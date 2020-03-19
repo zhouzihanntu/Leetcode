@@ -7,6 +7,7 @@
  169 | Majority Element | √ | √ | Boyer-Moore Voting Algorithm
  206 | Reverse Linked List | √ | √ |
  225 | Implement Stack using Queues | √ | √ |
+ 229 | Majority Element II | √ | √ |
  242 | Valid Anagram | √ | √ |
  1013 | Partition Array Into Three Parts With Equal Sum | √ | √ |
  1071 | Greatest Common Divisor of Strings | √ | √ | Euclidean algorithm
