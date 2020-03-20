@@ -21,3 +21,4 @@
 id | Problem   | Java  | Python | Hint
 :----:  |:----:  | :----:  | :----:  | :----:  
 17 | printNumbers | √ | √ | 
+40 | getLeastNumbers | √ | √ | 
