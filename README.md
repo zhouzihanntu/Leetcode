@@ -12,6 +12,7 @@
  229 | Majority Element II | √ | √ |
  242 | Valid Anagram | √ | √ |
  463 | Island Perimeter | √ | √ |
+ 739 | Daily Temperatures | √ | √ |
  876 | Middle of the Linked List | √ | √ |
  1013 | Partition Array Into Three Parts With Equal Sum | √ | √ |
  1071 | Greatest Common Divisor of Strings | √ | √ | Euclidean algorithm
