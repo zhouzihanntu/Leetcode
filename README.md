@@ -4,6 +4,7 @@
   :----:  |:----:  | :----:  | :----:  | :----:  
  1 | two sum  | √ | √ | Hashmap
  2 | Add Two Numbers | √ | √ |
+ 20 | Valid Parentheses | √ | √ |
  25 | Reverse Nodes in k-Group | √ | √ |
  169 | Majority Element | √ | √ | Boyer-Moore Voting Algorithm
  206 | Reverse Linked List | √ | √ |
