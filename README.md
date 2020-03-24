@@ -24,4 +24,5 @@
 id | Problem   | Java  | Python | Hint
 :----:  |:----:  | :----:  | :----:  | :----:  
 17 | printNumbers | √ | √ | 
+17.16 | The Masseuse LCCI | √ | √ | 
 40 | getLeastNumbers | √ | √ | 

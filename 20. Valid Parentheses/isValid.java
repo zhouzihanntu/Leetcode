@@ -31,7 +31,7 @@ class isValid {
 
     public static void main(String[] argv){
     	isValid obj = new isValid();
-    	String str = "";
+    	String str = "[]{}()";
     	Boolean res = obj.solution(str);
     	System.out.println(res);
 
