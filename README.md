@@ -15,6 +15,7 @@
  739 | Daily Temperatures | √ | √ |
  876 | Middle of the Linked List | √ | √ |
  892 | Surface Area of 3D Shapes | √ | √ |
+ 999 | Available Captures for Rook | √ | √ |
  1013 | Partition Array Into Three Parts With Equal Sum | √ | √ |
  1071 | Greatest Common Divisor of Strings | √ | √ | Euclidean algorithm
  1313 | Decompress Run-Length Encoded List | √ | √ |
