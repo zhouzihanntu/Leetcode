@@ -10,6 +10,7 @@
  206 | Reverse Linked List | √ | √ |
  225 | Implement Stack using Queues | √ | √ |
  229 | Majority Element II | √ | √ |
+ 239 | Sliding Window Maximum | √ | √ |
  242 | Valid Anagram | √ | √ |
  463 | Island Perimeter | √ | √ |
  739 | Daily Temperatures | √ | √ |
