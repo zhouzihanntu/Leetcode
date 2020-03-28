@@ -15,6 +15,7 @@
  463 | Island Perimeter | √ | √ |
  733 | Flood Fill | √ | √ | DFS
  739 | Daily Temperatures | √ | √ |
+ 820 | Short Encoding of Words | √ | √ | Trie
  876 | Middle of the Linked List | √ | √ |
  892 | Surface Area of 3D Shapes | √ | √ |
  914 | X of a Kind in a Deck of Cards | √ | √ |
