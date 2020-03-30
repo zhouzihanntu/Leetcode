@@ -21,6 +21,7 @@
  914 | X of a Kind in a Deck of Cards | √ | √ |
  999 | Available Captures for Rook | √ | √ |
  1013 | Partition Array Into Three Parts With Equal Sum | √ | √ |
+ 1034 | Coloring A Border | √ | √ |
  1071 | Greatest Common Divisor of Strings | √ | √ | Euclidean algorithm
  1162 | As Far from Land as Possible | √ | √ | BFS
  1313 | Decompress Run-Length Encoded List | √ | √ |
