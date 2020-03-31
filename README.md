@@ -18,6 +18,7 @@
  820 | Short Encoding of Words | √ | √ | Trie
  876 | Middle of the Linked List | √ | √ |
  892 | Surface Area of 3D Shapes | √ | √ |
+ 912 | Sort an Array | √ | √ | Counting Sort
  914 | X of a Kind in a Deck of Cards | √ | √ |
  999 | Available Captures for Rook | √ | √ |
  1013 | Partition Array Into Three Parts With Equal Sum | √ | √ |
