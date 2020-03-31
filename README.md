@@ -13,6 +13,7 @@
  239 | Sliding Window Maximum | √ | √ |
  242 | Valid Anagram | √ | √ |
  463 | Island Perimeter | √ | √ |
+ 695 | Max Area of Island | √ | √ | DFS
  733 | Flood Fill | √ | √ | DFS
  739 | Daily Temperatures | √ | √ |
  820 | Short Encoding of Words | √ | √ | Trie
