@@ -12,6 +12,7 @@
  229 | Majority Element II | √ | √ |
  239 | Sliding Window Maximum | √ | √ |
  242 | Valid Anagram | √ | √ |
+ 289 | Game of Life | √ | √ |
  463 | Island Perimeter | √ | √ |
  695 | Max Area of Island | √ | √ | DFS
  733 | Flood Fill | √ | √ | DFS
