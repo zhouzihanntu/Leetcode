@@ -7,6 +7,7 @@
  8 | String to Integer (atoi) | √ | √ |
  20 | Valid Parentheses | √ | √ |
  25 | Reverse Nodes in k-Group | √ | √ |
+ 42 | Trapping Rain Water | √ | √ |
  169 | Majority Element | √ | √ | Boyer-Moore Voting Algorithm
  206 | Reverse Linked List | √ | √ |
  225 | Implement Stack using Queues | √ | √ |
