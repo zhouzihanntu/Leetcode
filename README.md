@@ -36,7 +36,7 @@
  1342 | Number of Steps to Reduce a Number to Zero  | √ | √ | Bit Operation | Easy
 
 
- ## Interview
+## Interview
 
 id | Problem   | Java  | Python | Hint | Difficulty
 :----:  |:----:  | :----:  | :----:  | :----:  | :----:  
@@ -45,7 +45,10 @@ id | Problem   | Java  | Python | Hint | Difficulty
 40 | getLeastNumbers | √ | √ | | Easy
 62 | LCOF | √ | √ | Josephus problem | Easy
 
+
+
 ## weekly-contest-183 | python
+
 id | Problem   | Difficulty
 :----:  |:----:  | :----:  | :----:  | :----:  
 5195 | Longest Happy String | Medium
