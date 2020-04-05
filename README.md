@@ -43,3 +43,9 @@ id | Problem   | Java  | Python | Hint
 17.16 | The Masseuse LCCI | √ | √ | 
 40 | getLeastNumbers | √ | √ | 
 62 | LCOF | √ | √ | Josephus problem
+
+## weekly-contest-183 | python
+5195 | Longest Happy String
+5376 | Minimum Subsequence in Non-Increasing Order
+5377 | Number of Steps to Reduce a Number in Binary Representation to One
+5379 | Stone Game III
