@@ -16,6 +16,7 @@
  239 | Sliding Window Maximum | √ | √ |
  242 | Valid Anagram | √ | √ |
  289 | Game of Life | √ | √ |
+ 460 | LFU Cache |
  463 | Island Perimeter | √ | √ |
  695 | Max Area of Island | √ | √ | DFS
  733 | Flood Fill | √ | √ | DFS
