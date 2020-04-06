@@ -41,6 +41,7 @@
 
 id | Problem   | Java  | Python | Hint | Difficulty
 :----:  |:----:  | :----:  | :----:  | :----:  | :----:  
+01.07 | Rotate Matrix LCCI | √ | √ | | Medium
 17 | printNumbers | √ | √ | | Easy
 17.16 | The Masseuse LCCI | √ | √ | | Easy
 40 | getLeastNumbers | √ | √ | | Easy
