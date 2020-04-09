@@ -6,6 +6,7 @@
  2 | Add Two Numbers | √ | √ | | Medium
  8 | String to Integer (atoi) | √ | √ | | Medium
  20 | Valid Parentheses | √ | √ | | Medium
+ 22 | Generate Parentheses | √ | √ | | Medium
  25 | Reverse Nodes in k-Group | √ | √ | | Hard
  42 | Trapping Rain Water | √ | √ | | Hard
  72 | Edit Distance | √ | √ | | Hard
