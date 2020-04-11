@@ -19,6 +19,7 @@
  230 | Kth Smallest Element in a BST | √ | √ | | Medium
  239 | Sliding Window Maximum | √ | √ | | Hard
  242 | Valid Anagram | √ | √ | | Easy
+ 250 | Count Univalue Subtrees | √ | √ | | Medium
  289 | Game of Life | √ | √ | | Medium
  460 | LFU Cache | √ | | | Hard
  463 | Island Perimeter | √ | √ | | Easy
