@@ -27,6 +27,7 @@
  739 | Daily Temperatures | √ | √ | | Medium
  820 | Short Encoding of Words | √ | √ | Trie | Medium
  876 | Middle of the Linked List | √ | √ | | Easy
+ 887 | Super Egg Drop | √ | √ | | Hard
  892 | Surface Area of 3D Shapes | √ | √ | | Easy
  912 | Sort an Array | √ | √ | Counting Sort | Medium
  914 | X of a Kind in a Deck of Cards | √ | √ | | Easy
