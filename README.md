@@ -64,3 +64,13 @@ id | Problem   | Difficulty
 5376 | Minimum Subsequence in Non-Increasing Order | Easy
 5377 | Number of Steps to Reduce a Number in Binary Representation to One | Medium
 5379 | Stone Game III | Hard
+
+
+## weekly-contest-184 | python
+
+id | Problem   | Difficulty
+:----:  |:----:  | :----:  | :----:  | :----:  
+5380 | String Matching in an Array | Easy
+5381 | Queries on a Permutation With Key | Medium
+5382 | HTML Entity Parser | Medium
+5383 | Number of Ways to Paint N × 3 Grid | Hard
