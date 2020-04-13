@@ -69,7 +69,7 @@ id | Problem   | Java  | Python | Hint | Difficulty
 ## weekly-contest-183 | python
 
 id | Problem   | Difficulty
-:----:  |:----:  | :----:  | :----:  | :----:  
+:----:  |:----:  | :----:  
 5195 | Longest Happy String | Medium
 5376 | Minimum Subsequence in Non-Increasing Order | Easy
 5377 | Number of Steps to Reduce a Number in Binary Representation to One | Medium
@@ -79,7 +79,7 @@ id | Problem   | Difficulty
 ## weekly-contest-184 | python
 
 id | Problem   | Difficulty
-:----:  |:----:  | :----:  | :----:  | :----:  
+:----:  |:----:  | :----:  
 5380 | String Matching in an Array | Easy
 5381 | Queries on a Permutation With Key | Medium
 5382 | HTML Entity Parser | Medium
