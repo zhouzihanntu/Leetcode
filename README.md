@@ -52,6 +52,7 @@ id | Problem   | Java  | Python | Hint | Difficulty
 13 | 机器人的运动范围 | √ | √ | | Medium
 17 | printNumbers | √ | √ | | Easy
 40 | getLeastNumbers | √ | √ | | Easy
+57-2 | 和为s的连续正数序列 | √ | √ | | Easy
 62 | 圆圈中最后剩下的数字 | √ | √ | Josephus problem | Easy
 
 
