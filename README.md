@@ -9,6 +9,7 @@
  22 | Generate Parentheses | √ | √ | | Medium
  25 | Reverse Nodes in k-Group | √ | √ | | Hard
  42 | Trapping Rain Water | √ | √ | | Hard
+ 55 | Jump Game | √ | √ | | Medium
  56 | Merge Intervals | √ | √ | | Medium
  72 | Edit Distance | √ | √ | | Hard
  84 | Largest Rectangle in Histogram | √ | √ | | Hard
