@@ -74,6 +74,7 @@ id | Problem   | Java  | Python | Hint | Difficulty
 17.16 | The Masseuse | √ | √ | | Easy
 
 
+07 | 传递信息 | Easy
 
 ## weekly-contest-183 | python
 
