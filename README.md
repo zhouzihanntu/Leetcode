@@ -16,6 +16,7 @@
  84 | Largest Rectangle in Histogram | √ | √ | | Hard
  151 | Reverse Words in a String | √ | √ | | Medium
  169 | Majority Element | √ | √ | Boyer-Moore Voting Algorithm | Easy
+ 199 | Binary Tree Right Side View | √ | √ | | Medium
  200 | Number of Islands | √ | √ | | Hard
  206 | Reverse Linked List | √ | √ | | Easy
  225 | Implement Stack using Queues | √ | √ | | Easy
