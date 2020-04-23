@@ -74,11 +74,12 @@ id | Problem   | Java  | Python | Hint | Difficulty
 17.16 | The Masseuse | √ | √ | | Easy
 
 
-## LCF
+## LCF | python
 
 id | Problem | Difficulty
 :----:  |:----:  | :----:
 07 | 传递信息 | Easy
+08 | 剧情触发时间 | Medium
 
 ## weekly-contest-183 | python
 
