@@ -71,6 +71,7 @@ id | Problem   | Java  | Python | Hint | Difficulty
 :----:  |:----:  | :----:  | :----:  | :----:  | :----:  
 01.07 | Rotate Matrix | √ | √ | | Medium
 08.06 | Hanota | √ | √ | | Easy
+08.11 | Coin LCCI | √ | √ | | Medium
 17.16 | The Masseuse | √ | √ | | Easy
 
 
