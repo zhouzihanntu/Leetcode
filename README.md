@@ -14,6 +14,7 @@
  56 | Merge Intervals | √ | √ | | Medium
  72 | Edit Distance | √ | √ | | Hard
  84 | Largest Rectangle in Histogram | √ | √ | | Hard
+ 88 | Merge Sorted Array | √ | √ | | Easy
  151 | Reverse Words in a String | √ | √ | | Medium
  169 | Majority Element | √ | √ | Boyer-Moore Voting Algorithm | Easy
  199 | Binary Tree Right Side View | √ | √ | | Medium
