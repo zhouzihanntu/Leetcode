@@ -10,6 +10,7 @@
  22 | Generate Parentheses | √ | √ | | Medium
  25 | Reverse Nodes in k-Group | √ | √ | | Hard
  42 | Trapping Rain Water | √ | √ | | Hard
+ 46 | Permutations | √ | √ | | Medium
  55 | Jump Game | √ | √ | | Medium
  56 | Merge Intervals | √ | √ | | Medium
  72 | Edit Distance | √ | √ | | Hard
@@ -83,6 +84,9 @@ id | Problem | Difficulty
 :----:  |:----:  | :----:
 07 | 传递信息 | Easy
 08 | 剧情触发时间 | Medium
+09 | 最小跳跃次数 | Hard
+10 | 二叉树任务调度 | Medium
+
 
 ## weekly-contest-183 | python
 
