@@ -10,6 +10,7 @@
  22 | Generate Parentheses | √ | √ | | Medium
  23 | Merge k Sorted Lists | √ | √ | | Hard
  25 | Reverse Nodes in k-Group | √ | √ | | Hard
+ 33 | Search in Rotated Sorted Array | √ | √ | | Medium
  42 | Trapping Rain Water | √ | √ | | Hard
  46 | Permutations | √ | √ | | Medium
  55 | Jump Game | √ | √ | | Medium
