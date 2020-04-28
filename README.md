@@ -66,6 +66,7 @@ id | Problem   | Java  | Python | Hint | Difficulty
 17 | printNumbers | √ | √ | | Easy
 40 | getLeastNumbers | √ | √ | | Easy
 51 | 数组中的逆序对 | √ | √ | | Hard
+56-I | 数组中数字出现的次数 | √ | √ | | Medium
 57-2 | 和为s的连续正数序列 | √ | √ | | Easy
 62 | 圆圈中最后剩下的数字 | √ | √ | Josephus problem | Easy
 
