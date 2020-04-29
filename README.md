@@ -23,6 +23,7 @@
  169 | Majority Element | √ | √ | Boyer-Moore Voting Algorithm | Easy
  199 | Binary Tree Right Side View | √ | √ | | Medium
  200 | Number of Islands | √ | √ | | Hard
+ 202 | Happy Number | √ | √ | | Easy
  206 | Reverse Linked List | √ | √ | | Easy
  225 | Implement Stack using Queues | √ | √ | | Easy
  229 | Majority Element II | √ | √ | | Medium
