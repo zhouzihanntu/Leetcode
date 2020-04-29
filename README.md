@@ -50,6 +50,7 @@
  1013 | Partition Array Into Three Parts With Equal Sum | √ | √ | | Easy
  1034 | Coloring A Border | √ | √ | | Medium
  1071 | Greatest Common Divisor of Strings | √ | √ | Euclidean algorithm | Easy
+ 1095 | Find in Mountain Array | √ | √ | | Hard
  1111 | Maximum Nesting Depth of Two Valid Parentheses Strings | √ | √ | | Medium
  1162 | As Far from Land as Possible | √ | √ | BFS | Medium
  1248 | Count Number of Nice Subarrays | √ | √ | | Medium
