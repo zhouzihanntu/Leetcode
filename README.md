@@ -7,6 +7,7 @@
  8 | String to Integer (atoi) | √ | √ | | Medium
  11 | Container With Most Water | √ | √ | | Medium
  20 | Valid Parentheses | √ | √ | | Medium
+ 21 | Merge Two Sorted Lists | √ | √ | | Easy
  22 | Generate Parentheses | √ | √ | | Medium
  23 | Merge k Sorted Lists | √ | √ | | Hard
  25 | Reverse Nodes in k-Group | √ | √ | | Hard
