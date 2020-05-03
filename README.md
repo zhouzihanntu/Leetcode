@@ -14,6 +14,7 @@
  25 | Reverse Nodes in k-Group | √ | √ | | Hard
  33 | Search in Rotated Sorted Array | √ | √ | | Medium
  42 | Trapping Rain Water | √ | √ | | Hard
+ 45 | Jump Game II | √ | √ | | Hard
  46 | Permutations | √ | √ | | Medium
  53 | Maximum Subarray | √ | √ | | Easy
  55 | Jump Game | √ | √ | | Medium
