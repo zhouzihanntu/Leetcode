@@ -15,6 +15,7 @@
  33 | Search in Rotated Sorted Array | √ | √ | | Medium
  42 | Trapping Rain Water | √ | √ | | Hard
  46 | Permutations | √ | √ | | Medium
+ 53 | Maximum Subarray | √ | √ | | Easy
  55 | Jump Game | √ | √ | | Medium
  56 | Merge Intervals | √ | √ | | Medium
  72 | Edit Distance | √ | √ | | Hard
