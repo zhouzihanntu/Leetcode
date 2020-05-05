@@ -95,6 +95,8 @@ id | Problem | Difficulty
 :----:  |:----:  | :----:
 07 | 传递信息 | Easy
 08 | 剧情触发时间 | Medium
+09 | 最小跳跃次数 | Hard
+
 
 ## weekly-contest-183 | python
 
