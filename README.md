@@ -30,6 +30,7 @@
  200 | Number of Islands | √ | √ | | Hard
  202 | Happy Number | √ | √ | | Easy
  206 | Reverse Linked List | √ | √ | | Easy
+ 221 | Maximal Square | √ | √ | | Medium
  225 | Implement Stack using Queues | √ | √ | | Easy
  229 | Majority Element II | √ | √ | | Medium
  230 | Kth Smallest Element in a BST | √ | √ | | Medium
