@@ -19,6 +19,7 @@
  53 | Maximum Subarray | √ | √ | | Easy
  55 | Jump Game | √ | √ | | Medium
  56 | Merge Intervals | √ | √ | | Medium
+ 69 | Sqrt(x) | √ | √ | | Easy
  72 | Edit Distance | √ | √ | | Hard
  84 | Largest Rectangle in Histogram | √ | √ | | Hard
  88 | Merge Sorted Array | √ | √ | | Easy
