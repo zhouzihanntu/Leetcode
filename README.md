@@ -16,6 +16,7 @@
  42 | Trapping Rain Water | √ | √ | | Hard
  45 | Jump Game II | √ | √ | | Hard
  46 | Permutations | √ | √ | | Medium
+ 50 | Pow(x, n) | √ | √ | | Medium
  53 | Maximum Subarray | √ | √ | | Easy
  55 | Jump Game | √ | √ | | Medium
  56 | Merge Intervals | √ | √ | | Medium
