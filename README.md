@@ -27,6 +27,7 @@
  98 | Validate Binary Search Tree | √ | √ | | Medium
  136 | Single Number | √ | √ | | Easy
  151 | Reverse Words in a String | √ | √ | | Medium
+ 155 | Min Stack | √ | √ | | Easy
  169 | Majority Element | √ | √ | Boyer-Moore Voting Algorithm | Easy
  199 | Binary Tree Right Side View | √ | √ | | Medium
  200 | Number of Islands | √ | √ | | Hard
