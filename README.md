@@ -105,7 +105,6 @@ id | Problem | Difficulty
 07 | 传递信息 | Easy
 08 | 剧情触发时间 | Medium
 09 | 最小跳跃次数 | Hard
-10 | 二叉树任务调度 | Medium
 
 
 ## weekly-contest-183 | python
