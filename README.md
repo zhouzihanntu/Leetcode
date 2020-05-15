@@ -50,6 +50,7 @@
  463 | Island Perimeter | √ | √ | | Easy
  466 | Count The Repetitions | √ | √ | | Hard
  542 | 01 Matrix | √ | √ | BFS | Medium
+ 560 | Subarray Sum Equals K | √ | √ | | Medium
  572 | Subtree of Another Tree | √ | √ | | Easy
  695 | Max Area of Island | √ | √ | DFS | Medium
  733 | Flood Fill | √ | √ | DFS | Easy
