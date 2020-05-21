@@ -5,6 +5,7 @@
  1 | two sum  | √ | √ | Hashmap | Easy
  2 | Add Two Numbers | √ | √ | | Medium
  3 | Longest Substring Without Repeating Characters | √ | √ | | Medium
+ 5 | Longest Palindromic Substring | √ | √ | | Medium
  8 | String to Integer (atoi) | √ | √ | | Medium
  11 | Container With Most Water | √ | √ | | Medium
  20 | Valid Parentheses | √ | √ | | Medium
