@@ -52,6 +52,7 @@
  460 | LFU Cache | √ | | | Hard
  463 | Island Perimeter | √ | √ | | Easy
  466 | Count The Repetitions | √ | √ | | Hard
+ 516 | Longest Palindromic Subsequence | √ | √ | | Medium
  542 | 01 Matrix | √ | √ | BFS | Medium
  560 | Subarray Sum Equals K | √ | √ | | Medium
  572 | Subtree of Another Tree | √ | √ | | Easy
