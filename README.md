@@ -23,6 +23,7 @@
  56 | Merge Intervals | √ | √ | | Medium
  69 | Sqrt(x) | √ | √ | | Easy
  72 | Edit Distance | √ | √ | | Hard
+ 76 | Minimum Window Substring | √ | √ | | Hard
  84 | Largest Rectangle in Histogram | √ | √ | | Hard
  88 | Merge Sorted Array | √ | √ | | Easy
  98 | Validate Binary Search Tree | √ | √ | | Medium
