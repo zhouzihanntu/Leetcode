@@ -31,6 +31,7 @@
  102 | Binary Tree Level Order Traversal | √ | √ | | Medium
  105 | Construct Binary Tree from Preorder and Inorder Traversal | √ | √ | | Medium
  136 | Single Number | √ | √ | | Easy
+ 146 | LRU Cache | √ | √ | | Medium
  151 | Reverse Words in a String | √ | √ | | Medium
  152 | Maximum Product Subarray | √ | √ | | Medium
  155 | Min Stack | √ | √ | | Easy
