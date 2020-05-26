@@ -49,6 +49,7 @@
  239 | Sliding Window Maximum | √ | √ | | Hard
  242 | Valid Anagram | √ | √ | | Easy
  250 | Count Univalue Subtrees | √ | √ | | Medium
+ 287 | Find the Duplicate Number | √ | √ | | Medium
  289 | Game of Life | √ | √ | | Medium
  322 | Coin Change | √ | √ | | Medium
  355 | Design Twitter | √ | √ | | Medium
