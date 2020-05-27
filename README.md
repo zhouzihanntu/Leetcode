@@ -71,6 +71,7 @@
  892 | Surface Area of 3D Shapes | √ | √ | | Easy
  912 | Sort an Array | √ | √ | Counting Sort | Medium
  914 | X of a Kind in a Deck of Cards | √ | √ | | Easy
+ 974 | Subarray Sums Divisible by K | √ | √ | | Medium
  983 | Minimum Cost For Tickets | √ | √ | | Medium
  999 | Available Captures for Rook | √ | √ | | Easy
  1013 | Partition Array Into Three Parts With Equal Sum | √ | √ | | Easy
