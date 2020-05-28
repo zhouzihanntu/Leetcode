@@ -53,6 +53,7 @@
  289 | Game of Life | √ | √ | | Medium
  322 | Coin Change | √ | √ | | Medium
  355 | Design Twitter | √ | √ | | Medium
+ 394 | Decode String | √ | √ | | Medium
  445 | Add Two Numbers II | √ | √ | | Medium
  460 | LFU Cache | √ | | | Hard
  463 | Island Perimeter | √ | √ | | Easy
