@@ -36,6 +36,7 @@
  152 | Maximum Product Subarray | √ | √ | | Medium
  155 | Min Stack | √ | √ | | Easy
  169 | Majority Element | √ | √ | Boyer-Moore Voting Algorithm | Easy
+ 198 | House Robber | √ | √ | | Easy
  199 | Binary Tree Right Side View | √ | √ | | Medium
  200 | Number of Islands | √ | √ | | Hard
  202 | Happy Number | √ | √ | | Easy
