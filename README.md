@@ -28,6 +28,7 @@
  84 | Largest Rectangle in Histogram | √ | √ | | Hard
  88 | Merge Sorted Array | √ | √ | | Easy
  98 | Validate Binary Search Tree | √ | √ | | Medium
+ 101 | Symmetric Tree | √ | √ | | Easy
  102 | Binary Tree Level Order Traversal | √ | √ | | Medium
  105 | Construct Binary Tree from Preorder and Inorder Traversal | √ | √ | | Medium
  136 | Single Number | √ | √ | | Easy
