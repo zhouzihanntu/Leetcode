@@ -101,7 +101,7 @@ id | Problem   | Java  | Python | Hint | Difficulty
 56-I | 数组中数字出现的次数 | √ | √ | | Medium
 57-2 | 和为s的连续正数序列 | √ | √ | | Easy
 62 | 圆圈中最后剩下的数字 | √ | √ | Josephus problem | Easy
-
+64 | 求1+2+…+n | √ | √ | | Medium
 
 
 ## LCCI | Cracking the Coding Interview
