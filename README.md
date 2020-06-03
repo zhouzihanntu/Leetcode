@@ -69,6 +69,7 @@
  733 | Flood Fill | √ | √ | DFS | Easy
  739 | Daily Temperatures | √ | √ | | Medium
  820 | Short Encoding of Words | √ | √ | Trie | Medium
+ 837 | New 21 Game | √ | √ | | Medium
  876 | Middle of the Linked List | √ | √ | | Easy
  887 | Super Egg Drop | √ | √ | | Hard
  892 | Surface Area of 3D Shapes | √ | √ | | Easy
