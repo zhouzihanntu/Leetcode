@@ -98,6 +98,7 @@ id | Problem   | Java  | Python | Hint | Difficulty
 :----:  |:----:  | :----:  | :----:  | :----:  | :----:  
 13 | 机器人的运动范围 | √ | √ | | Medium
 17 | printNumbers | √ | √ | | Easy
+29 | 顺时针打印矩阵 | √ | √ | | Easy
 40 | getLeastNumbers | √ | √ | | Easy
 51 | 数组中的逆序对 | √ | √ | | Hard
 56-I | 数组中数字出现的次数 | √ | √ | | Medium
