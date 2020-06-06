@@ -31,6 +31,7 @@
  101 | Symmetric Tree | √ | √ | | Easy
  102 | Binary Tree Level Order Traversal | √ | √ | | Medium
  105 | Construct Binary Tree from Preorder and Inorder Traversal | √ | √ | | Medium
+ 128 | Longest Consecutive Sequence | √ | √ | | Hard
  136 | Single Number | √ | √ | | Easy
  146 | LRU Cache | √ | √ | | Medium
  151 | Reverse Words in a String | √ | √ | | Medium
