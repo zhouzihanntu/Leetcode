@@ -79,6 +79,7 @@
  914 | X of a Kind in a Deck of Cards | √ | √ | | Easy
  974 | Subarray Sums Divisible by K | √ | √ | | Medium
  983 | Minimum Cost For Tickets | √ | √ | | Medium
+ 990 | Satisfiability of Equality Equations | √ | √ | | Medium
  999 | Available Captures for Rook | √ | √ | | Easy
  1013 | Partition Array Into Three Parts With Equal Sum | √ | √ | | Easy
  1034 | Coloring A Border | √ | √ | | Medium
