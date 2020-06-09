@@ -102,6 +102,7 @@ id | Problem   | Java  | Python | Hint | Difficulty
 17 | printNumbers | √ | √ | | Easy
 29 | 顺时针打印矩阵 | √ | √ | | Easy
 40 | getLeastNumbers | √ | √ | | Easy
+46 | 把数字翻译成字符串 | √ | √ | | Medium
 51 | 数组中的逆序对 | √ | √ | | Hard
 56-I | 数组中数字出现的次数 | √ | √ | | Medium
 57-2 | 和为s的连续正数序列 | √ | √ | | Easy
