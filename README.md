@@ -8,6 +8,7 @@
  4 | Median of Two Sorted Arrays | √ | √ | | Hard
  5 | Longest Palindromic Substring | √ | √ | | Medium
  8 | String to Integer (atoi) | √ | √ | | Medium
+ 9 | Palindrome Number | √ | √ | | Easy
  11 | Container With Most Water | √ | √ | | Medium
  20 | Valid Parentheses | √ | √ | | Medium
  21 | Merge Two Sorted Lists | √ | √ | | Easy
