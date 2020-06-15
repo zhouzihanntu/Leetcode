@@ -10,6 +10,7 @@
  8 | String to Integer (atoi) | √ | √ | | Medium
  9 | Palindrome Number | √ | √ | | Easy
  11 | Container With Most Water | √ | √ | | Medium
+ 14 | Longest Common Prefix | √ | √ | | Easy
  15 | 3Sum | √ | √ | | Medium
  20 | Valid Parentheses | √ | √ | | Medium
  21 | Merge Two Sorted Lists | √ | √ | | Easy
