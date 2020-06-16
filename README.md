@@ -59,6 +59,7 @@
  250 | Count Univalue Subtrees | √ | √ | | Medium
  287 | Find the Duplicate Number | √ | √ | | Medium
  289 | Game of Life | √ | √ | | Medium
+ 297 | Serialize and Deserialize Binary Tree | √ | √ | | Hard
  322 | Coin Change | √ | √ | | Medium
  355 | Design Twitter | √ | √ | | Medium
  394 | Decode String | √ | √ | | Medium
