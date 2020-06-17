@@ -59,7 +59,7 @@
  250 | Count Univalue Subtrees | √ | √ | | Medium
  287 | Find the Duplicate Number | √ | √ | | Medium
  289 | Game of Life | √ | √ | | Medium
- 297 | Serialize and Deserialize Binary Tree | √ | √ | | Hard
+ 297 | Serialize and Deserialize Binary Tree | √ | | | Hard
  322 | Coin Change | √ | √ | | Medium
  355 | Design Twitter | √ | √ | | Medium
  394 | Decode String | √ | √ | | Medium
@@ -87,6 +87,7 @@
  990 | Satisfiability of Equality Equations | √ | √ | | Medium
  999 | Available Captures for Rook | √ | √ | | Easy
  1013 | Partition Array Into Three Parts With Equal Sum | √ | √ | | Easy
+ 1014 | Best Sightseeing Pair | √ | | | Medium
  1034 | Coloring A Border | √ | √ | | Medium
  1071 | Greatest Common Divisor of Strings | √ | √ | Euclidean algorithm | Easy
  1095 | Find in Mountain Array | √ | √ | | Hard
