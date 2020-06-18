@@ -88,6 +88,7 @@
  999 | Available Captures for Rook | √ | √ | | Easy
  1013 | Partition Array Into Three Parts With Equal Sum | √ | √ | | Easy
  1014 | Best Sightseeing Pair | √ | | | Medium
+ 1028 | Recover a Tree From Preorder Traversal | √ | | | Hard
  1034 | Coloring A Border | √ | √ | | Medium
  1071 | Greatest Common Divisor of Strings | √ | √ | Euclidean algorithm | Easy
  1095 | Find in Mountain Array | √ | √ | | Hard
