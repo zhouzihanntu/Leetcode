@@ -35,6 +35,7 @@
  101 | Symmetric Tree | √ | √ | | Easy
  102 | Binary Tree Level Order Traversal | √ | √ | | Medium
  105 | Construct Binary Tree from Preorder and Inorder Traversal | √ | √ | | Medium
+ 125 | Valid Palindrome | √ | √ | | Easy
  128 | Longest Consecutive Sequence | √ | √ | | Hard
  136 | Single Number | √ | √ | | Easy
  146 | LRU Cache | √ | √ | | Medium
