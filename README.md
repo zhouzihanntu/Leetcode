@@ -25,6 +25,7 @@
  53 | Maximum Subarray | √ | √ | | Easy
  55 | Jump Game | √ | √ | | Medium
  56 | Merge Intervals | √ | √ | | Medium
+ 67 | Add Binary | √ | √ | | Easy
  69 | Sqrt(x) | √ | √ | | Easy
  70 | Climbing Stairs | √ | √ | | Easy
  72 | Edit Distance | √ | √ | | Hard
