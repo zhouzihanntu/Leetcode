@@ -39,6 +39,7 @@
  125 | Valid Palindrome | √ | √ | | Easy
  128 | Longest Consecutive Sequence | √ | √ | | Hard
  136 | Single Number | √ | √ | | Easy
+ 139 | Word Break | √ | √ | | Medium
  146 | LRU Cache | √ | √ | | Medium
  151 | Reverse Words in a String | √ | √ | | Medium
  152 | Maximum Product Subarray | √ | √ | | Medium
