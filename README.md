@@ -25,6 +25,7 @@
  53 | Maximum Subarray | √ | √ | | Easy
  55 | Jump Game | √ | √ | | Medium
  56 | Merge Intervals | √ | √ | | Medium
+ 67 | Add Binary | √ | √ | | Easy
  69 | Sqrt(x) | √ | √ | | Easy
  70 | Climbing Stairs | √ | √ | | Easy
  72 | Edit Distance | √ | √ | | Hard
@@ -35,9 +36,11 @@
  101 | Symmetric Tree | √ | √ | | Easy
  102 | Binary Tree Level Order Traversal | √ | √ | | Medium
  105 | Construct Binary Tree from Preorder and Inorder Traversal | √ | √ | | Medium
+ 108 | Convert Sorted Array to Binary Search Tree | √ |  | | Easy
  125 | Valid Palindrome | √ | √ | | Easy
  128 | Longest Consecutive Sequence | √ | √ | | Hard
  136 | Single Number | √ | √ | | Easy
+ 139 | Word Break | √ | √ | | Medium
  146 | LRU Cache | √ | √ | | Medium
  151 | Reverse Words in a String | √ | √ | | Medium
  152 | Maximum Product Subarray | √ | √ | | Medium
@@ -64,6 +67,7 @@
  297 | Serialize and Deserialize Binary Tree | √ | | | Hard
  322 | Coin Change | √ | √ | | Medium
  355 | Design Twitter | √ | √ | | Medium
+ 378 | Kth Smallest Element in a Sorted Matrix | √ | | | Medium
  394 | Decode String | √ | √ | | Medium
  445 | Add Two Numbers II | √ | √ | | Medium
  460 | LFU Cache | √ | | | Hard
