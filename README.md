@@ -37,6 +37,7 @@
  102 | Binary Tree Level Order Traversal | √ | √ | | Medium
  105 | Construct Binary Tree from Preorder and Inorder Traversal | √ | √ | | Medium
  108 | Convert Sorted Array to Binary Search Tree | √ |  | | Easy
+ 120 | Triangle | √ | | | Medium
  125 | Valid Palindrome | √ | √ | | Easy
  128 | Longest Consecutive Sequence | √ | √ | | Hard
  136 | Single Number | √ | √ | | Easy
